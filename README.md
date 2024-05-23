@@ -1,6 +1,6 @@
 # bus
 
-# Project Description: Write 3-5 sentences on your project topic. (try to address all points below)
+# Project Description: 
 ## Who is it for?
 Anyone looking for an easy, consolidated way to manage their household chores, whether they’re living alone or with roommates/family.
 ## What will it do? (What “human activity” will it support?)
